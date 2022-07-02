@@ -1,0 +1,1 @@
+[![Сборка status](https://ci.appveyor.com/api/projects/status/bpwnaqchh3k67464?svg=true)](https://ci.appveyor.com/project/AnastasiaCymbalyuk77753/forms)
